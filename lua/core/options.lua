@@ -5,8 +5,8 @@ opt.relativenumber = true -- activate relative line numbers
 opt.number = true -- show the line number instead of 0
 
 -- tabs and indent
-opt.tabstop = 4 -- 4 spaces for each tab
-opt.shiftwidth = 4 -- 4 spaces for each indent
+opt.tabstop = 2 -- 2 spaces for each tab
+opt.shiftwidth = 2 -- 2 spaces for each indent
 opt.expandtab = true -- change tab for spaces
 opt.autoindent = true -- keep current indent on next line
 
